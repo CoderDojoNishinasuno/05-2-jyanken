@@ -1,5 +1,5 @@
 
-> このページを開く [https://coderdojonishinasuno.github.io/02-3-jyanken/](https://coderdojonishinasuno.github.io/02-3-jyanken/)
+* このページを開く https://coderdojonishinasuno.github.io/02-3-jyanken/
 
 ## 拡張機能として使用
 
