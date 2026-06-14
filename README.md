@@ -1,5 +1,5 @@
 
-* このページを開く https://coderdojonishinasuno.github.io/02-3-jyanken/
+* このページを開く **https://coderdojonishinasuno.github.io/05-2-jyanken/**
 
 ## 拡張機能として使用
 
@@ -8,7 +8,7 @@
 * [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
 * **新しいプロジェクト** をクリックしてください
 * ギアボタンメニューの中にある **拡張機能** をクリックしてください
-* **https://github.com/coderdojonishinasuno/02-3-jyanken** を検索してインポートします。
+* **https://github.com/coderdojonishinasuno/05-2-jyanken** を検索してインポートします。
 
 ## このプロジェクトを編集します
 
